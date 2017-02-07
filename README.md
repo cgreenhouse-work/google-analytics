@@ -24,4 +24,4 @@ Google Analytics presentation resources
     - [Digital Marketing and Measurement Model](https://www.kaushik.net/avinash/digital-marketing-and-measurement-model/)
     - [Web Analytics 101: Definitions: Goals, Metrics, KPIs, Dimensions, Targets](https://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/)
     - [Be Real-World Smart: A Beginner's Advanced Google Analytics Guide](https://www.kaushik.net/avinash/real-world-smart-beginners-advanced-google-analytics-guide/)
-    -   This is good reading to accompany the Google Analytics demo account
+      - This is good reading to accompany the Google Analytics demo account
