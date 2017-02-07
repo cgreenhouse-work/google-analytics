@@ -1,2 +1,27 @@
 # google-analytics
 Google Analytics presentation resources
+- **Google Analytics:**
+  - [Individual Qualification (IQ)](https://support.google.com/partners/answer/6089738)
+     - Why earn an individual qualification? While Google Analytics is easy to use for beginners, it's also a very powerful tool in the hands of knowledgeable users. Qualified users will be effective at leveraging Google Analytics within their organizations and at helping others to do the same.
+    - [Google Partners](https://www.google.com/partners/about/join.html)
+  - [Academy](https://analyticsacademy.withgoogle.com/)
+     - Take lessons form Google measurement experts, join the Google Analytics learning community, and test your knowledge.
+  - [Demo account](https://support.google.com/analytics/answer/6367342)
+    - A fully functional Google Analytics account that any Google user can access. It's a great way to look at real business data and experiment with Google Analytics features.
+  - [Help Center](https://support.google.com/analytics#topic=3544906)
+    - Official Google Analytics Help Center where you can find tips and tutorials on using Google Analytics and other answers to frequently asked questions.
+      - [Glossary](https://support.google.com/analytics/topic/6083659)
+  - [Developers](https://developers.google.com/analytics/)
+    - Documentation and resources for developers.
+    - [Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
+      - This tool allows you to easily add campaign parameters to URLs so you can track Custom Campaigns in Google Analytics.
+    - [Event Tracking](https://developers.google.com/analytics/devguides/collection/analyticsjs/events)
+      - This guide explains how to implement event tracking with analytics.js.
+    - [Dimensions & Metrics Explorer](https://developers.google.com/analytics/devguides/reporting/core/dimsmets#mode=web)
+      - The dimensions and metrics explorer lists and describes all the dimensions and metrics available through the Core Reporting API. Not all dimensions and metrics can be queried together. Only certain dimensions and metrics can be used together to create valid combinations. Select a dimension or metric checkbox to see all the other values that can be combined in the same query.
+- **Recommended blog and posts:**
+  - [Occam’s Razor by Avinash Kaushik (Digital Marketing Evangelist - Google)](https://www.kaushik.net/avinash/)
+    - [Digital Marketing and Measurement Model](https://www.kaushik.net/avinash/digital-marketing-and-measurement-model/)
+    - [Web Analytics 101: Definitions: Goals, Metrics, KPIs, Dimensions, Targets](https://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/)
+    - [Be Real-World Smart: A Beginner's Advanced Google Analytics Guide](https://www.kaushik.net/avinash/real-world-smart-beginners-advanced-google-analytics-guide/)
+    -   This is good reading to accompany the Google Analytics demo account
